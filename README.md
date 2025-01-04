@@ -25,11 +25,14 @@ The tools used were Python (Pandas, Numpy, Matplotlib, TA-Lib, yfinance), Jupyte
 Plot of moving averages:
 ![](mas.png)
 
+
 Trend indicator: Average Directional Index (ADX)
 ![](adx.png)
 
+
 Momentum indicator: Relative Strength Index (RSI)
 ![](rsi.png)
+
 
 Volatility indicator: Bollinger bands
 ![](bbands.png)
