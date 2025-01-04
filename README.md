@@ -6,15 +6,15 @@ This project focuses on the analysis of stock price data using time series analy
 ## Overview
 The analysis includes the following key components:
 
-Histogram of Returns: Analyzing the distribution of returns to understand the stock's behavior.
-Candlestick Chart: A visual representation of price movements, showing the open, high, low, and close prices over time.
-
-#### Trend Indicators:
++ Histogram of Returns: Analyzing the distribution of returns to understand the stock's behavior.
++ Candlestick Chart: A visual representation of price movements, showing the open, high, low, and close prices over time.
++ Analysis of the indicators described below:
+#### 1) Trend Indicators:
 Moving Averages: Simple and Exponential Moving Averages (SMA and EMA) to identify trends.
 Average Directional Index (ADX): A measure of trend strength.
-#### Momentum Indicator:
+#### 2) Momentum Indicator:
 Relative Strength Index (RSI): Identifying overbought or oversold conditions.
-#### Volatility Indicator:
+#### 3) Volatility Indicator:
 Bollinger Bands: Visualizing the stock's volatility.
 
 ## Tools
