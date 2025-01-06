@@ -24,7 +24,7 @@ The tools used were Python (Pandas, Numpy, Matplotlib, TA-Lib, yfinance), Jupyte
 
 ## Some visualizations of the analysis
 
-Plot of moving averages:
+Plotting the Moving Averages (Simple and Exponential):
 ![](mas_.png)
 
 
