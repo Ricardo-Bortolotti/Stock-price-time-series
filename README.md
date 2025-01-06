@@ -25,7 +25,7 @@ The tools used were Python (Pandas, Numpy, Matplotlib, TA-Lib, yfinance), Jupyte
 ## Some visualizations of the analysis
 
 Plot of moving averages:
-![](mas.png)
+![](mas_.png)
 
 
 Trend indicator: Average Directional Index (ADX)
